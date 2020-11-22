@@ -1,1 +1,1 @@
-Language files for Inklii.
+Localization files in CSV format. 
